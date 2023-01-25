@@ -21,7 +21,7 @@ pipeline {
         {
             steps 
             {
-                echo 'This is to deploy an Application'
+                echo 'This is to deploy an App'
             }
         }
     }
